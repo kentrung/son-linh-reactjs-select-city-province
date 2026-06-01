@@ -1,5 +1,4 @@
 # React select city province
-Code online: https://codesandbox.io/s/select-city-province-loohko
 
 ![image](https://github.com/kentrung/react-select-city-province/assets/15643762/d82e2d3d-8983-4f9d-9ebf-8ca50e5c67d4)
 
